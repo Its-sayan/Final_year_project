@@ -2,7 +2,7 @@
 #include <ESP8266WiFi.h>
 #include <LiquidCrystal.h>
 using namespace std;
-
+// Define pin assignments
 const int trigPin = 9;
 const int echoPin = 10;
 const int lcd_rs = 12;
