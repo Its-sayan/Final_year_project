@@ -1,6 +1,4 @@
-<head>
-    <title>Final Year Project</title>
-</head>
+
 <body>
     <div><h1>Project Title: Wireless Ultrasonic Radar System</h1>
     <pre>Project Overview
