@@ -24,7 +24,7 @@ The data will then be displayed on the LCD screen.</pre></div>
     <h2>Description:</h2>
     <ul>=> Developed a wireless ultrasonic radar system to measure and transmit distance data to a remote device.</ul>
     <ul>=> Utilized Arduino UNO for microcontroller functionality and Wi-Fi module for wireless communication.</ul>
-    <ul>=> Implemented ultrasonic sensor to accurately measure distances to objects.Integrated an LCD screen to display real-time distance measurements.</ul>
+    <ul>=> Implemented ultrasonic sensor to accurately measure distances to objects.Integrated an LCD screen to display real-time distance  measurements.</ul>
     <ul>=> Wrote C++ code to control the system's logic and data processing.</ul>
     <ul>=> Successfully demonstrated the system's ability to detect and track objects within its range.</ul></div>
 
