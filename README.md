@@ -9,12 +9,12 @@ using ultrasonic waves and transmit the data wirelessly to a device connected to
 The data will then be displayed on the LCD screen.</pre></div>
 
 <div><h2>Hardware Components:</h2>
-    <ol>Arduino UNO</ol>
-    <ol>Ultrasonic sensor --- HC-SR04</ol>
-    <ol>Wi-Fi module --- ESP8266 </ol>
-    <ol>Small LCD screen</ol>
-    <ol>Breadboard</ol>
-    <ol>Jumper wires</ol>
+    <ol>=> Arduino UNO</ol>
+    <ol>=>Ultrasonic sensor --- HC-SR04</ol>
+    <ol>=> Wi-Fi module --- ESP8266 </ol>
+    <ol>=> Small LCD screen</ol>
+    <ol>=>Breadboard</ol>
+    <ol>=> Jumper wires</ol>
 </div>
 <div><h2>Software Components:</h2>
     <ol>=> Wi-Fi library for Arduino -- ESP8266WiFi</ol>
